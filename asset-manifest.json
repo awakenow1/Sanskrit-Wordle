@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Sanskrit-language-wordle/static/css/main.68e78c01.css",
-    "main.js": "/Sanskrit-language-wordle/static/js/main.ab724b85.js",
-    "static/js/787.9fd50364.chunk.js": "/Sanskrit-language-wordle/static/js/787.9fd50364.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Sanskrit-language-wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Sanskrit-language-wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Sanskrit-language-wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Sanskrit-language-wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Sanskrit-language-wordle/index.html",
-    "static/media/getFetch.cjs": "/Sanskrit-language-wordle/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.68e78c01.css.map": "/Sanskrit-language-wordle/static/css/main.68e78c01.css.map",
-    "main.ab724b85.js.map": "/Sanskrit-language-wordle/static/js/main.ab724b85.js.map",
-    "787.9fd50364.chunk.js.map": "/Sanskrit-language-wordle/static/js/787.9fd50364.chunk.js.map"
+    "main.css": "/Sanskrit-Wordle/static/css/main.22f0d245.css",
+    "main.js": "/Sanskrit-Wordle/static/js/main.1fa75063.js",
+    "static/js/787.9fd50364.chunk.js": "/Sanskrit-Wordle/static/js/787.9fd50364.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Sanskrit-Wordle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Sanskrit-Wordle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Sanskrit-Wordle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Sanskrit-Wordle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Sanskrit-Wordle/index.html",
+    "static/media/getFetch.cjs": "/Sanskrit-Wordle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.22f0d245.css.map": "/Sanskrit-Wordle/static/css/main.22f0d245.css.map",
+    "main.1fa75063.js.map": "/Sanskrit-Wordle/static/js/main.1fa75063.js.map",
+    "787.9fd50364.chunk.js.map": "/Sanskrit-Wordle/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68e78c01.css",
-    "static/js/main.ab724b85.js"
+    "static/css/main.22f0d245.css",
+    "static/js/main.1fa75063.js"
   ]
 }
