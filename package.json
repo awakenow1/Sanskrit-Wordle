@@ -1,7 +1,7 @@
 {
     "name": "any-language-wordle",
     "version": "0.1.0",
-    "homepage": "https://awakenow1.github.io/Sanskrit-language-wordle",
+    "homepage": "https://awakenow1.github.io/Sanskrit-Wordle/",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
