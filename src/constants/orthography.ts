@@ -11,7 +11,6 @@ export const ORTHOGRAPHY = [
  'ट',
  'ए',
  'द',
- 'श',
  'उ',
  'र',
  'म',
