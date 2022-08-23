@@ -1,6 +1,6 @@
 {
     "about": "About this game",
-    "gameName": "Shabda Kode - Not Wordle - {{language}}",
+    "gameName": "Shabda Kode - {{language}}",
     "enterKey": "Enter",
     "deleteKey": "Delete",
     "notEnoughLetters": "Not enough letters",
